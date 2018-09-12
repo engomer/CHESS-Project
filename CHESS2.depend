@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1528202165 source:d:\c\chess2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<vector>
+	<math.h>
+
